@@ -19,3 +19,6 @@
 ### 결과 이미지
 
 <img src="./image/schedule.png" width="1000px" height="450px"></img><br/>
+
+- 22시 21분 부터 메시지 보내기 시작 ~ 8시51분 종료
+- 메시지 보낼 때 마다 current time 출력 -> 11시부터 6시까지 문자를 안보내는지 확인하기 위해서 
