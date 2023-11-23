@@ -18,4 +18,4 @@
 
 ### 결과 이미지
 
-<img src="./image/schedule.png" width="450px" height="300px"></img><br/>
+<img src="./image/schedule.png" width="1000px" height="450px"></img><br/>
